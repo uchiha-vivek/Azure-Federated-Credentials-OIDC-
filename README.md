@@ -25,6 +25,16 @@ What are the benefits of OIDC ?
 - Azure CLI Installed (this can be optional as here we are using GUI)
 
 
+# Video Walkthrough
+
+<video width="700" controls>
+  <source src="https://allyworkspace.blob.core.windows.net/images/oidc-express.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+
+
 ## Steps 
 
 
