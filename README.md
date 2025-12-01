@@ -28,9 +28,9 @@ What are the benefits of OIDC ?
 # Video Walkthrough
 
 <video width="700" controls>
-  <source src="https://allyworkspace.blob.core.windows.net/images/oidc-express.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="assets/videos/oidc-express.mp4" type="video/mp4">
 </video>
+
 
 
 
